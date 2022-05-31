@@ -1,0 +1,5 @@
+used a lot of decompressing
+lzip->lz
+lz4->lz
+lzop->lzo
+xz->xz
