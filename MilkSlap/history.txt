@@ -1,0 +1,584 @@
+    1  hasdeep -v
+    2  hashdeep -v
+    3  hasdeep -v
+    4  hashdeep -v
+    5  ls
+    6  ls -l
+    7  pwd
+    8  whoami
+    9  nc -v
+   10  nc -v 10.19.42.91
+   11  man nc
+   12  clear
+   13  nano script.sh
+   14  ls
+   15  chmod +x script.sh
+   16  ./script.sh
+   17  nano script.sh
+   18  chmod +x script.sh
+   19  nano script.sh
+   20  ./script.sh
+   21  clear
+   22  wget https://mercury.picoctf.net/static/5eb456e480e485183c9c1b16952c6eda/dolls.jpg
+   23  ls
+   24  dolls.pg
+   25  doll
+   26  dolls.jpg
+   27  nano dolls.pg
+   28  nano dolls.jpg
+   29  ren dolls.jpg output.rar
+   30  unzip dolls.jpg
+   31  ls
+   32  cd base_images
+   33  ls
+   34  unzip 2_c.jpg
+   35  ls
+   36  cd base_images
+   37  ls
+   38  unzip 3_c.jpg
+   39  ls
+   40  cd base_images
+   41  ls
+   42  unzip 4_c.jpg
+   43  ls
+   44  cat flag.txt'
+   45  nano flag.txt
+   46  bvi flag.txt
+   47  ls
+   48  bvi flag.txt
+   49  nano new.txt
+   50  clear
+   51  wget https://mercury.picoctf.net/static/d0129ad98ba9258ab59e7700a1b18c14/tunn3l_v1s10n
+   52  cd
+   53  wget https://mercury.picoctf.net/static/d0129ad98ba9258ab59e7700a1b18c14/tunn3l_v1s10n
+   54  clear
+   55  nano tunn3l_v1s10n
+   56  cat tunn3l_v1s10n
+   57  sudo apt install ./code_1.67.1-1651841865_amd64.deb
+   58  exiftool
+   59  clear
+   60  exiftool tunn3l_v1s10n
+   61  chmod +x tunn3l_v1s10n
+   62  ./tunn3l_v1s10n
+   63  which python
+   64  which python3
+   65  python3
+   66  clear
+   67  vscode
+   68  ls
+   69  cd Downloads
+   70  ls
+   71  cd
+   72  cd Desktop
+   73  ls
+   74  cd Do
+   75  cd Downloads
+   76  ls
+   77  clear
+   78  mkdir PythonCodes
+   79  clear
+   80  python3 exponentials.py
+   81  python3 modulo.py
+   82  clear
+   83  python3 string.py
+   84  python3 strings.py
+   85  vscode
+   86  code
+   87  hex eitor
+   88  hex editor
+   89  clear
+   90  ls
+   91  bvi tunn3l_v1s10n
+   92  clear
+   93  covert tunn3l_v1s10n -o tunn3l_v1s10n.bmp
+   94  convert tunn3l_v1s10n -o tunn3l_v1s10n.bmp
+   95  ls
+   96  bvi tunn3l_v1s10n
+   97  wget https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883f6b286f47467/garden.jpg
+   98  ls
+   99  view garden.jpg
+  100  wget https://jupiter.challenges.picoctf.org/static/43c4743b3946f427e883f6b286f47467/garden.jpg
+  101  ls
+  102  view garden.jpg
+  103  ls
+  104  nano garden.jpg
+  105  bvi garden.jpg
+  106  python3
+  107  clear
+  108  python3
+  109  clea
+  110  clear
+  111  ls
+  112  Scripts
+  113  mkdir Scripts
+  114  clear
+  115  cd Scripts
+  116  clear
+  117  nano B2A.py
+  118  python3 B2A.py
+  119  clear
+  120  nano B2A.py
+  121  python3 B2A.py\nclear
+  122  python3 B2A.py
+  123  clear
+  124  nano B2A.py
+  125  python3 B2A.py
+  126  clear
+  127  nano O2A.py
+  128  python3 O2A.py
+  129  nano O2A.py
+  130  python3 O2A.py
+  131  clear
+  132  nano H2A/py
+  133  nano H2A.py
+  134  python3 H2A.py
+  135  clear
+  136  python3 H2A.py
+  137  cd Scripts
+  138  clear
+  139  python3 H2A.py
+  140  cd Scripts
+  141  clear
+  142  python3 O2A.py
+  143  ls
+  144  cd pico
+  145  ls
+  146  cd ..
+  147  cd Scripts
+  148  clear
+  149  python3 B2A.py
+  150  sudo apt install git
+  151  sudo apt-get dist-upgrade -y
+  152  clera
+  153  clear
+  154  code
+  155  ls
+  156  git config --global user.name "AshRahman"
+  157  git config --global user.email "ashfaqurrahmanrahat@outlook.com"
+  158  clear
+  159  wget https://artifacts.picoctf.net/c/79/level5.py
+  160  wget V
+  161  wget https://artifacts.picoctf.net/c/79/level5.flag.txt.enc
+  162  wget https://artifacts.picoctf.net/c/79/level5.hash.bin
+  163  wget https://artifacts.picoctf.net/c/79/dictionary.txt
+  164  clear
+  165  ls
+  166  python3 level5.py
+  167  clear
+  168  cat dictionary.txt
+  169  nano level5.py
+  170  clear
+  171  nano trim.py
+  172  python3 level5.py
+  173  clear
+  174  pyhton3 trim.py
+  175  python3 trim.py
+  176  nano trim.py
+  177  clear
+  178  nano trim.py
+  179  python3 trim.py
+  180  cat dictionary.txt
+  181  clear
+  182  nano trim.py
+  183  python3 trim.py
+  184  clear
+  185  nano trim.py\nclear
+  186  nano trim.py\nclear
+  187  nano trim.py
+  188  python3 trim.py
+  189  clear
+  190  nano trim.py
+  191  clear
+  192  python3 trim.py\npython3 trim.py
+  193  nano trim.py
+  194  python3 trim.py
+  195  nano trim.py
+  196  python3 trim.py
+  197  celar
+  198  clear
+  199  nano trim.py
+  200  python3 trim.py
+  201  clear
+  202  nano trim.py
+  203  python3 trim.py
+  204  clear
+  205  nano trim.py
+  206  python3 trim.py
+  207  clear
+  208  nano trim.py
+  209  python3 trim.py
+  210  nano trim.py
+  211  ls
+  212  cd picoCTF
+  213  ls
+  214  cd PW\ Crack\ 5
+  215  ls
+  216  nano level5.py
+  217  clear
+  218  nano level5.py
+  219  python3 level5.py
+  220  nano level5.py
+  221  python3 level5.py
+  222  nano level5.py
+  223  python3 level5.py
+  224  nano level5.py
+  225  python3 level5.py
+  226  nano level5.py
+  227  python3 level5.py
+  228  nano level5.py
+  229  python3 level5.py
+  230  clear
+  231  nano level5.py
+  232  python3 level5.py
+  233  nano level5.py
+  234  cd picoCTF/PW\ Crack\ 5
+  235  ls
+  236  wget https://artifacts.picoctf.net/c/79/level5.py
+  237  wget V
+  238  wget https://artifacts.picoctf.net/c/79/level5.flag.txt.enc
+  239  wget https://artifacts.picoctf.net/c/79/level5.hash.bin
+  240  wget https://artifacts.picoctf.net/c/79/dictionary.txt
+  241  clear
+  242  ls
+  243  python3 level5.py
+  244  clear
+  245  cat dictionary.txt
+  246  nano level5.py
+  247  clear
+  248  nano trim.py
+  249  python3 level5.py
+  250  clear
+  251  pyhton3 trim.py
+  252  python3 trim.py
+  253  nano trim.py
+  254  clear
+  255  nano trim.py
+  256  python3 trim.py
+  257  cat dictionary.txt
+  258  clear
+  259  nano trim.py
+  260  python3 trim.py
+  261  clear
+  262  nano trim.py\nclear
+  263  nano trim.py\nclear
+  264  nano trim.py
+  265  python3 trim.py
+  266  clear
+  267  nano trim.py
+  268  clear
+  269  python3 trim.py\npython3 trim.py
+  270  nano trim.py
+  271  python3 trim.py
+  272  nano trim.py
+  273  python3 trim.py
+  274  celar
+  275  clear
+  276  nano trim.py
+  277  python3 trim.py
+  278  clear
+  279  nano trim.py
+  280  python3 trim.py
+  281  clear
+  282  nano trim.py
+  283  python3 trim.py
+  284  clear
+  285  nano trim.py
+  286  python3 trim.py
+  287  nano trim.py
+  288  ls
+  289  cd pico
+  290  clear
+  291  wget https://mercury.picoctf.net/static/88553d672efbccbc5868002f4c6eb737/tftp.pcapng
+  292  clea
+  293  rclear
+  294  clear
+  295  sudo si
+  296  celar
+  297  clear
+  298  sudo su
+  299  tshark -qz io,phs -r shark2.pcapng
+  300  tshark -r shark2.pcapng -qz follow,tcp,ascii,5
+  301  cd picoCTF
+  302  mkdir potion
+  303  wget https://artifacts.picoctf.net/picoMini+by+redpwn/Forensics/advanced-potion-making/advanced-potion-making
+  304  ls
+  305  cd potion
+  306  wget https://artifacts.picoctf.net/picoMini+by+redpwn/Forensics/advanced-potion-making/advanced-potion-making
+  307  nano advanced-potion-making
+  308  bvi advanced-potion-making
+  309  cd picoCTF
+  310  mkdir potion
+  311  wget https://artifacts.picoctf.net/picoMini+by+redpwn/Forensics/advanced-potion-making/advanced-potion-making
+  312  ls
+  313  cd potion
+  314  wget https://artifacts.picoctf.net/picoMini+by+redpwn/Forensics/advanced-potion-making/advanced-potion-making
+  315  nano advanced-potion-making
+  316  bvi advanced-potion-making
+  317  base64 -d "bfe48e8500c454d647c55a4471985e776a07b26cba64526713f43758599aa98b"
+  318  cd ..
+  319  ls
+  320  cd Wireshark222
+  321  ls
+  322  base64 -d flag.txt
+  323  nano flag.txt
+  324  base64 -d flag.txt
+  325  cat flag.txt
+  326  code
+  327  clear
+  328  cd picoCTF/1_wanna_Rockstar
+  329  ls
+  330  cat lyrics.txt
+  331  clear
+  332  cd ..
+  333  mkdir Wireshark222
+  334  clear
+  335  cd Wireshark222
+  336  wget https://mercury.picoctf.net/static/df92c613964fca8edec3b2981f69c3e4/shark2.pcapng
+  337  clear
+  338  cat flag.txt
+  339  cat>> flag.txt
+  340  cat flag.txt\ncat flag.txt
+  341  cd
+  342  cd picoCTF/PW\ Crack\ 5
+  343  clear
+  344  python3 trim.py
+  345  clear
+  346  python3 level5.py
+  347  clear
+  348  python3 level5.py
+  349  clear
+  350  python3 level5.py
+  351  clear
+  352  cd ..
+  353  mkdir 1_wanna_Rockstar
+  354  cd 1_wanna_Rockstar
+  355  clear
+  356  wget https://jupiter.challenges.picoctf.org/static/b99c57e4274172bf3c93534b6d59632d/lyrics.txt
+  357  clear
+  358  ls
+  359  code
+  360  ls
+  361  cd Wireshark222
+  362  ls
+  363  cd ..
+  364  cd potion
+  365  ls
+  366  nano advanced-potion-making
+  367  bvi advanced-potion-making
+  368  clear
+  369  eog advanced-potion-making photo.png
+  370  ls
+  371  mv advanced-potion-making photo.png
+  372  ls
+  373  strings photo.png| less
+  374  clear
+  375  hexedit
+  376  hexedit photo.png
+  377  eog photo.png
+  378  clear
+  379  steghide
+  380  steghide photo.png
+  381  hexedit man
+  382  man hexedit
+  383  cd ..
+  384  ls
+  385  cd cosmic
+  386  cd picoCTF
+  387  mkdir StegSolve
+  388  ls
+  389  cd StegSolve
+  390  nano install.sh
+  391  ./install.sh
+  392  chmod +x install.sh
+  393  ./install.sh
+  394  nano install.sh
+  395  java -jar bin/stegsolve.jar
+  396  clear
+  397  cd ..
+  398  mkdir enhance
+  399  cd enhance
+  400  wget https://artifacts.picoctf.net/c/137/drawing.flag.svg
+  401  eog drawing.flag.svg
+  402  nano drawing.flag.svg
+  403  nano solve
+  404  cd ..
+  405  mkdir FileType
+  406  cd FileType
+  407  ls
+  408  wget https://artifacts.picoctf.net/c/324/Flag.pdf
+  409  ls
+  410  open flag.pdf
+  411  nano flag.pdf
+  412  nano Flag.pdf
+  413  ./Flag.pdf
+  414  chmod +x Flag.pdf
+  415  ./Flag.pdf
+  416  ls
+  417  nano Flag.pdf
+  418  ls
+  419  exiftool flag
+  420  nano flag
+  421  exiftool flag
+  422  exiftool flag.lz
+  423  nano Flag.lz
+  424  nano flag.lz
+  425  nano flag
+  426  bvi flag
+  427  exiftool flag.lz
+  428  exiftool flag.lz4
+  429  open flag.sh
+  430  ./Flag.sh
+  431  ls
+  432  flag.lz4 --decompress
+  433  --decompress flag.lz4
+  434  ./Flag.sh
+  435  chmod +x Flag.sh
+  436  ./Flag.sh
+  437  nano Flag.sh
+  438  sharutilz
+  439  sharutils
+  440  nano Flag.sh
+  441  sharutils
+  442  sudo apt install sharutils
+  443  sharutils
+  444  ./Flag.sh
+  445  ls
+  446  cd flag
+  447  nano Flag.pdf.save
+  448  ls -l
+  449  nano Flag.pdf
+  450  ls
+  451  chmod +x Flag2.sh
+  452  ./Flag2.sh
+  453  cat Flag.pdf.save
+  454  file flag
+  455  unzip flag
+  456  nano flag.sh
+  457  lzip
+  458  lz4
+  459  man lz4
+  460  file flag
+  461  cd picoCTF/FileType
+  462  ls
+  463  clear
+  464  ls
+  465  cd New\ Folder
+  466  ls
+  467  cd New\ Folder
+  468  ls
+  469  clear
+  470  exiftool flag.lz
+  471  bvi flag.lz
+  472  clear
+  473  ls
+  474  mv flag flag.lz
+  475  mv flag flag.lzip
+  476  lzip -d flag.lzip
+  477  sudo apt-get update
+  478  sudo apt-get upgrade -y
+  479  sudo apt-get install lzip
+  480  lzip -d flag.lzip
+  481  mv flag.lzip.out flag.lz4
+  482  lz4
+  483  lz4 -d flag.lz4
+  484  nano flag
+  485  bvi flag
+  486  file flag
+  487  mv flag flag.lzma
+  488  lzma -d flag.lzma
+  489  file flag
+  490  lzo 
+  491  mv flag flag.lzo
+  492  lzop -d flag.lzo
+  493  ls
+  494  lzop -d flag.lzo
+  495  file flag
+  496  mv flag flag.lz
+  497  cd New\ Folder
+  498  ls
+  499  file flag
+  500  mv flag flag.xz
+  501  ls
+  502  cd New\ Folder
+  503  ls
+  504  nano flag
+  505  cd picoCTF
+  506  mkdir LookeyHere
+  507  cd LookeyHere
+  508  wget https://artifacts.picoctf.net/c/295/anthem.flag.txt
+  509  nano anthem.flag.txt
+  510  cd picoCTF/PacketsPrimer
+  511  ls
+  512  clear
+  513  ls
+  514  tshark -r network-dump.flag.pcap -qz follow,tcp,ascii,5
+  515  tshark -r network-dump.flag.pcap -qz follow,tcp,ascii,"pico"
+  516  tshark -r network-dump.flag.pcap -qz follow,tcp
+  517  strings network-dump.flag.pcap| grep pico
+  518  cd ..
+  519  ls
+  520  mkdir ReadctionGoneWrong
+  521  cd ReadctionGoneWrong
+  522  ls
+  523  clear
+  524  wget https://artifacts.picoctf.net/c/264/Financial_Report_for_ABC_Labs.pdf
+  525  ls
+  526  open Financial_Report_for_ABC_Labs.pdf
+  527  exiftool Financial_Report_for_ABC_Labs.pdf
+  528  nano Financial_Report_for_ABC_Labs.pdf
+  529  bvi Financial_Report_for_ABC_Labs.pdf
+  530  clear
+  531  strings Financial_Report_for_ABC_Labs.pdf|grep pico
+  532  cat Financial_Report_for_ABC_Labs.pdf
+  533  ls
+  534  cd picoCTF
+  535  mkdir DDSleuth
+  536  ls
+  537  cd DDSleuth
+  538  ls
+  539  clear
+  540  ls
+  541  history
+  542  clear
+  543  mmls dds1-alpine.flag.img.gz
+  544  mmls dds1-alpine.flag.img.gz -D
+  545  mmls dds1-alpine.flag.img.gz -d
+  546  mmls dds1-alpine.flag.img.gz -B
+  547  mmls -B dds1-alpine.flag.img.gz
+  548  mmls dds1-alpine.flag.img.gz -a
+  549  mmls dds1-alpine.flag.img.gz
+  550  mmls -t dds1-alpine.flag.img.gz
+  551  cat>> hints.txt
+  552  cat hints.txt
+  553  celar
+  554  clear
+  555  unzip dds1-alpine.flag.img.gz
+  556  ls
+  557  gzip -d dds1-alpine.flag.img.gz
+  558  ls
+  559  mmls dds1-alpine.flag.img
+  560  clear
+  561  srch_strings -a dds1-alpine.flag.img
+  562  clear
+  563  srch_strings -a dds1-alpine.flag.img | cat>> output.txt
+  564  cat output.txt
+  565  clear
+  566  ls
+  567  strings output.txt| grep pico
+  568  cd ..
+  569  mkdir MilkSlap
+  570  cd MilkSlap
+  571  clear
+  572  wget http://mercury.picoctf.net:16940/
+  573  ls
+  574  nano index.html
+  575  cat >> sourcejs.txt
+  576  string sourcejs.txt| grep pico
+  577  strings sourcejs.txt| grep pico
+  578  clear
+  579  nano concat_v.png \
+  580  nano concat_v.png
+  581  bvi concat_v.png
+  582  stegosolve
+  583  stegsolve
+  584  strings history|grep steg
